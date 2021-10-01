@@ -1,0 +1,288 @@
+[
+    {
+    "id":1,
+    "model_name":"Evoke",
+    "category_id":1,
+    "category":"Men",
+    "price":5995,
+    "image":"https://ibb.co/d0kYRMr",
+    "rating":4,
+    "color":["Blue","Brown"]
+    },
+    
+    {
+    "id":2,
+    "model_name":"Workwear",
+    "category_id":1,
+    "category":"Men",
+    "price":2995,
+    "image":"https://ibb.co/WkKxRQm",
+    "rating":4,
+    "color":"Green"
+    },
+    
+    {
+    "id":3,
+    "model_name":"FastFit",
+    "category_id":1,
+    "category":"Men",
+    "price":4395,
+    "image":"https://ibb.co/chCsd34",
+    "rating":3,
+    "Color":["White","Silver"]
+    },
+    
+    {
+    "id":4,
+    "model_name":"NXT",
+    "category_id":1,
+    "category":"Men",
+    "price":1294,
+    "image":"https://ibb.co/G3KX4W2",
+    "rating":4,
+    "color":"Grey"    
+    },
+
+    {
+    "id":5,
+    "model_name":"Essentials",
+    "category_id":1,
+    "category":"Men",
+    "price":1275,
+    "image":"https://ibb.co/gDkdg9c",
+    "rating":3,
+    "color":["Black","Golden"]
+    },
+    
+    {
+    "id":6,
+    "model_name":"Athleisure",
+    "category_id":1,
+    "category":"Men",
+    "price":8195,
+    "image":"https://ibb.co/JkJ5kBJ",
+    "rating":5,
+    "color":"Grey"
+    },
+    
+    {
+    "id":7,
+    "model_name":"Blush",
+    "category_id":2,
+    "category":"Women",
+    "price":1439,
+    "image":"https://ibb.co/sjRr7jr",
+    "rating":4.5,
+    "color":["Golden","Black"]
+    },
+    
+    {
+    "id":8,
+    "model_name":"Play",
+    "category_id":2,
+    "category":"Women",
+    "price":1299,
+    "image":"https://ibb.co/4P4xm9k",
+    "rating":3,
+    "color":["Silver","Red"]
+    },
+    
+    {
+    "id":9,
+    "model_name":"Classic",
+    "category_id":2,
+    "category":"Women",
+    "price":11595,
+    "image":"https://ibb.co/4F9hg1J",
+    "rating":4,
+    "color":["Silver","White","Golden"]
+    },
+    
+    {
+    "id":10,
+    "model_name":"Crystals",
+    "category_id":2,
+    "category":"Women",
+    "price":9495,
+    "image":"https://ibb.co/C2W84wW",
+    "rating":5,
+    "strap color":["Green","Golden"]
+    },
+    
+    {
+    "id":11,
+    "model_name":"Pankh",
+    "category_id":2,
+    "category":"Women",
+    "price":1039,
+    "image":"https://ibb.co/h94DBtk",
+    "rating":5,
+    "color":["White","Silver"]
+    },
+    
+    {
+    "id":12,
+    "model_name":"Denim",
+    "category_id":2,
+    "category":"Women",
+    "price":3599,
+    "image":"https://ibb.co/52H8Q4R",
+    "rating":5,
+    "color":"Blue"
+    },
+    
+    {
+    "id":13,
+    "model_name":"Mathematics",
+    "category_id":3,
+    "category":"Kids",
+    "price":715,
+    "image":"https://ibb.co/bNDBPz7",
+    "rating":4,
+    "color":"Black"
+    },
+    
+    {
+    "id":14,
+    "model_name":"Zoop Doraemon",
+    "category_id":3,
+    "category":"Kids",
+    "price":715,
+    "image":"https://ibb.co/7YgJhZq",
+    "rating":3,
+    "strap color":"Multicolor"    
+    },
+    
+    {
+    "id":15,
+    "model_name":"Zoop Frozen",
+    "category_id":3,
+    "category":"Kids",
+    "price":895,
+    "image":"https://ibb.co/BLQPCvR",
+    "rating":4,
+    "color":"Multicolor"
+    },
+    
+    {
+    "id":16,
+    "model_name":"Football",
+    "category_id":3,
+    "category":"Kids",
+    "price":795,
+    "image":"https://ibb.co/dDrxhN0",
+    "rating":3,
+    "strap color":["White","Red"]
+    },
+    
+    {
+    "id":17,
+    "model_name":"Zoop Incredibles",
+    "category_id":3,
+    "category":"Kids",
+    "price":780,
+    "image":"https://ibb.co/7Chz1w1",
+    "rating":4,
+    "strap color":"Multicolor"
+    },
+    
+    {
+    "id":18,
+    "model_name":"Zoop Travel",
+    "category_id":3,
+    "category":"Kids",
+    "price":799,
+    "image":"https://ibb.co/JBMptH3",
+    "rating":4,
+    "color":["White","Purple"]
+    },
+    
+    {
+    "id":19,
+    "model_name":"Bandhan",
+    "category_id":4,
+    "category":"Couple",
+    "price":13495,
+    "image":"https://ibb.co/HB7MddP",
+    "rating":5,
+    "strap color":["Blue","Silver"]
+    },
+    
+    {
+    "id":20,
+    "model_name":"Engrave",
+    "category_id":4,
+    "category":"Couple",
+    "price":8295,
+    "image":"https://ibb.co/HhLbFdq",
+    "rating":4,
+    "strap color":["Black","Grey"]
+    },
+    
+    {
+    "id":21,
+    "model_name":"Connected X",
+    "category_id":5,
+    "category":"Smart Watches",
+    "price":9955,
+    "image":"https://ibb.co/0ZVVhnj",
+    "rating":4,
+    "strap color":"Black"
+    },
+    
+    {
+    "id":22,
+    "model_name":"Reflex",
+    "category_id":5,
+    "category":"Smart Watches",
+    "price":2245,
+    "image":"https://ibb.co/m6nZGqt",
+    "rating":3,
+    "strap color":"Peach"
+    },
+    
+    {
+    "id":23,
+    "model_name":"Beat",
+    "category_id":5,
+    "category":"Smart Watches",
+    "price":1645,
+    "image":"https://ibb.co/4SxRTs4",
+    "rating":4,
+    "color":"Black"
+    },
+    
+    {
+    "id":24,
+    "model_name":"Stride",
+    "category_id":5,
+    "category":"Smart Watches",
+    "price":1445,
+    "image":"https://ibb.co/42QcFt3",
+    "rating":4,
+    "color":"Black"
+    },
+    
+    {
+    "id":25,
+    "model_name":"TraQ Pro",
+    "category_id":5,
+    "category":"Smart Watches",
+    "price":7999,
+    "image":"https://ibb.co/R4qYh7x",
+    "rating":5,
+    "color":"Black"
+    },
+    
+    {
+    "id":26,
+    "model_name":"TraQ Lite",
+    "category_id":5,
+    "category":"Smart Watches",
+    "price":3999,
+    "image":"https://ibb.co/nBDdjz1",
+    "rating":4,
+    "color":"Black"
+    }
+
+]

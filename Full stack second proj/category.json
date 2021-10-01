@@ -1,0 +1,22 @@
+[
+    {
+    "id":1,
+    "category_name":"Men"
+    },
+    {
+    "id":2,
+    "category_name":"Women"
+    },
+    {
+    "id":3,
+    "category_name":"Kid"
+    },
+    {
+    "id":4,
+    "category_name":"Couple"
+    },
+    {
+    "id":5,
+    "category_name":"Smart watches"
+    }
+]
